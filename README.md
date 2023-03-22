@@ -16,7 +16,7 @@
 
 
 
-<div align="center" dir="auto">
+<!-- <div align="center" dir="auto">
   <a href="https://github.com/iagoalc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoalc&show_icons=true&theme=radical" style="max-width: 100%;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoalc&layout=compact&theme=radical" style="max-width: 100%;">
@@ -26,4 +26,4 @@
 <h3 align="left">Social midia:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iago-alcântara-b95467110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iago-alcântara-b95467110" height="30" width="40" /></a>
-</p>
+</p> -->
